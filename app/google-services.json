@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "612332881367",
+    "firebase_url": "https://cell-c.firebaseio.com",
+    "project_id": "cell-c",
+    "storage_bucket": "cell-c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612332881367:android:baa39fe4b6e43251",
+        "android_client_info": {
+          "package_name": "com.bornintelligence.cellc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612332881367-80jem9ac4nkhohfooohfjsqnp8rpg0bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bornintelligence.cellc",
+            "certificate_hash": "a5bc16ee6e91c6c59aa06fe02563fee9f70e3dd1"
+          }
+        },
+        {
+          "client_id": "612332881367-18bsknfgeniaj2arc03f9bt746fqhjer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA_9hNEBWDvoa6HPKETVAazs_3W4l3Tpw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612332881367-18bsknfgeniaj2arc03f9bt746fqhjer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
